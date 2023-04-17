@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES/NEW/WOODFLOOR_A02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_construction/c0_0_0"
+	}
+}

@@ -1,0 +1,157 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: HALFLIFE/GLASS_BRIGHT
+Material not found!: GM_CONSTRUCTION/SEX-WAS-HERE
+Material not found!: REALWORLDTEXTURES2/GLASS/GLASS_09
+Material not found!: REALWORLDTEXTURES/NEW/WOODFLOOR_A02
+Material not found!: HALFLIFE/PFAB_VENT2
+Material not found!: HALFLIFE/TRK_DOOR
+Material not found!: HALFLIFE/RECHARGED
+Material not found!: HALFLIFE/TRK_CANVAS
+Material not found!: HALFLIFE/TRK_GRILLE
+Material not found!: HALFLIFE/TRK_BUMPER
+Material not found!: HALFLIFE/TRK_HOOD
+Material not found!: HALFLIFE/TRK_BED
+Material not found!: HALFLIFE/TRK_SEAT
+Material not found!: HALFLIFE/~LAB1_COMP7
+Material not found!: HALFLIFE/GENERIC76
+Material not found!: HALFLIFE/LAB1_COMP7B
+Material not found!: HALFLIFE/BASETRIM01
+Material not found!: HALFLIFE/TRK_RIM
+Material not found!: HALFLIFE/TRK_SIDE
+Material not found!: HALFLIFE/LAB1_COMP3D
+Material not found!: HALFLIFE/TRK_TREAD
+Material not found!: HALFLIFE/TRK_TIRE
+Material not found!: HALFLIFE/C1A1_FLR2C
+Material not found!: HALFLIFE/+0~LIGHT4A
+Patching WVT material: maps/gm_construction/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 62 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (64578 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 381 texinfos to 184
+Reduced 46 texdatas to 41 (1044 bytes to 903)
+Writing d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.bsp
+reading d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.prt
+  21 portalclusters
+  31 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 401
+Average clusters visible: 19
+Building PAS...
+Average clusters audible: 19
+visdatasize:298  compressed from 336
+writing d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.bsp
+PREP OK
+873 faces
+2415835 square feet [347880256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+873 patches before subdivision
+6859 patches after subdivision
+33 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 228786, max 384
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4993, 5671, 2340)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(204, 154, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20, 11, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+18 of 22 (81% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/4096         1680/196608   ( 0.9%) 
+brushes                145/16384        1740/196608   ( 0.9%) 
+brushsides            1844/163840      14752/1310720  ( 1.1%) 
+planes                3396/65536       67920/1310720  ( 5.2%) 
+vertexes              1159/65536       13908/786432   ( 1.8%) 
+nodes                  777/65536       24864/2097152  ( 1.2%) 
+texinfos               184/12288       13248/884736   ( 1.5%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  873/65536       48888/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              515/65536       28840/3670016  ( 0.8%) 
+leaves                 813/65536       26016/2097152  ( 1.2%) 
+leaffaces              910/65536        1820/131072   ( 1.4%) 
+leafbrushes            531/65536        1062/131072   ( 0.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5876/512000      23504/2048000  ( 1.1%) 
+edges                 3192/256000      12768/1024000  ( 1.2%) 
+LDR worldlights         33/8192         2904/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             11/32768         110/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           183/65536         366/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]      215336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         298/16777216 ( 0.0%) 
+entdata               [variable]       49598/393216   (12.6%) 
+LDR ambient table      813/65536        3252/262144   ( 1.2%) 
+HDR ambient table      813/65536        3252/262144   ( 1.2%) 
+LDR leaf ambient      2632/65536       73696/1835008  ( 4.0%) 
+HDR leaf ambient       813/65536       22764/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       50548/0        ( 0.0%) 
+physics               [variable]       64578/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 2019
+Writing d:\github\gm_construction\addons\gm_construction_2573015569\maps\gm_construction.bsp
+6 seconds elapsed

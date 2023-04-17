@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/rusroadsigns/ru_znak_metal"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.4 0.4]"
+	"$basealphaenvmapmask" "1"
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "3"
+	"$detailblendfactor" "0.45"
+	"$detailblendmode" "0"
+}

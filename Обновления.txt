@@ -1,0 +1,59 @@
+Обновление: 2 дек. 2022 в 7:21
+
+- Added .VMF file.
+- Another Media Files.
+
+Обновление: 2 дек. 2022 в 1:49
+
+- Update Icon
+
+Обновление: 2 дек. 2022 в 1:07
+
+Update did not take long to wait, and finally I am glad to announce for you a new list of changes.
+
+- Deleted all unused content, 6.51GB. Now total size of the map is 0.10GB. Content decreased by 1,479%.
+- Removed dependence on addon Storm Fox 2 (Mod still supported).
+- Tower has been reduced by 2 floors, so the size of map has been reduced by 250 times.
+- Added Skybox for visual expansion of map.
+- Battery and Blue car now inside the garage (Fire sound fixed).
+- Added navigation mesh.
+- Added nodegraphs.
+
+Обновление: 6 сен. 2021 в 1:07
+
+MORE MUSIC!!!
+
+Обновление: 6 сен. 2021 в 0:08
+
+Add Justice Music
+
+Обновление: 5 сен. 2021 в 23:48
+
+add music Daft Punk
+
+Обновление: 2 сен. 2021 в 5:29
+
+fix missing textures
+
+Обновление: 2 сен. 2021 в 5:23
+
+fix error models
+
+Обновление: 1 сен. 2021 в 19:43
+
+updated thumb
+
+Обновление: 1 сен. 2021 в 18:00
+
+new map version v2.09.1
+
+Обновление: 13 авг. 2021 в 21:43
+
+updated map [version 2.08.13]
+added new radiostation and big trashed on all map
+
+Обновление: 12 авг. 2021 в 19:11
+Обновление: 12 авг. 2021 в 19:11
+Обновление: 12 авг. 2021 в 18:34
+Обновление: 12 авг. 2021 в 18:26
+Обновление: 12 авг. 2021 в 17:46
